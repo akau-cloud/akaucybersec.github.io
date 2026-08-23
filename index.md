@@ -67,7 +67,7 @@ phase of engagements.
 $ cat contact.txt
 ```
 
-- GitHub: [github.com/your-handle](#)
+- GitHub: [github.com/akau-cloud](https://github.com/akau-cloud)
 - LinkedIn: [linkedin.com/in/your-handle](#)
 - Twitter/X: [@your-handle](#)
 - Email: your.email@example.com
