@@ -2,16 +2,23 @@
 layout: default
 ---
 
+> ⚠️ **SAMPLE CONTENT** — everything below is placeholder/example copy so
+> you can see the layout filled in. Replace it with your real bio, skills,
+> projects, and links before publishing this site.
+
 # AKAU P. K. AGUTO
 
-**[TODO: role/tagline — e.g. "Penetration Tester · OSINT · CTF Player"]**
+**Security Researcher · Penetration Tester · CTF Player**
 
 ```
 $ whoami
 ```
 
-[TODO: 2-4 sentence bio. Who you are, what you focus on (offensive security,
-blue team, research, bug bounty, CTFs...), and what draws you to it.]
+I'm a security practitioner focused on offensive security — finding and
+breaking things before someone with worse intentions does. My day-to-day
+spans web application testing, network penetration testing, and internal
+Active Directory assessments, with weekends usually lost to CTFs and
+personal research on emerging attack techniques.
 
 ---
 
@@ -21,11 +28,11 @@ blue team, research, bug bounty, CTFs...), and what draws you to it.]
 $ cat skills.txt
 ```
 
-- **Offensive Security:** [TODO: e.g. Web App Pentesting, Network Pentesting, Active Directory]
-- **Tools:** [TODO: e.g. Burp Suite, Nmap, Metasploit, Wireshark]
-- **Languages/Scripting:** [TODO: e.g. Python, Bash]
-- **Certifications:** [TODO: e.g. OSCP, Security+, CEH — or "in progress"]
-- **Platforms:** [TODO: e.g. TryHackMe, HackTheBox — link your profile]
+- **Offensive Security:** Web App Pentesting, Network Pentesting, Active Directory Attacks, Social Engineering
+- **Tools:** Burp Suite, Nmap, Metasploit, Wireshark, BloodHound, Cobalt Strike
+- **Languages/Scripting:** Python, Bash, PowerShell
+- **Certifications:** OSCP, CompTIA Security+ (example — swap for your real ones)
+- **Platforms:** [TryHackMe](https://tryhackme.com/) · [HackTheBox](https://www.hackthebox.com/) — link your real profiles here
 
 ---
 
@@ -35,12 +42,21 @@ $ cat skills.txt
 $ ls -la projects/
 ```
 
-### [TODO: Project/Writeup Name]
-[TODO: one or two sentences describing what it is and what you did.]
+### Internal Network Pentest Report — "Acme Corp" (Example)
+Simulated a full internal penetration test against a mock corporate network,
+chaining a phishing foothold into domain admin via Kerberoasting and
+misconfigured ACLs. Full writeup with methodology and remediation steps.
 [Link →](#)
 
-### [TODO: Project/Writeup Name]
-[TODO: one or two sentences describing what it is and what you did.]
+### CTF Writeup: HackTheBox "Example" Box
+Walkthrough of a medium-difficulty box covering initial enumeration, a
+web app SQLi foothold, and privilege escalation via a vulnerable SUID binary.
+[Link →](#)
+
+### Custom Recon Automation Tool
+A small Python tool that automates subdomain enumeration, port scanning, and
+service fingerprinting into a single report — built to speed up the recon
+phase of engagements.
 [Link →](#)
 
 ---
@@ -51,10 +67,10 @@ $ ls -la projects/
 $ cat contact.txt
 ```
 
-- GitHub: [TODO: https://github.com/your-handle]
-- LinkedIn: [TODO]
-- Twitter/X: [TODO]
-- Email: [TODO]
+- GitHub: [github.com/your-handle](#)
+- LinkedIn: [linkedin.com/in/your-handle](#)
+- Twitter/X: [@your-handle](#)
+- Email: your.email@example.com
 
 ---
 
