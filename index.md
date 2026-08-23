@@ -2,122 +2,76 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# AKAU P. K. AGUTO
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**Cybersecurity Student · Security Product Builder**
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+$ whoami
 ```
 
+I'm a cybersecurity student at Monash University building toward a career
+in security engineering. Alongside coursework, I design and build full-stack
+security products end to end — from a multi-tenant SOC-as-a-service platform
+to tooling for cybersecurity education — using React, TypeScript, and
+Supabase.
+
+---
+
+## Skills
+
 ```
-The final element.
+$ cat skills.txt
 ```
+
+- **Security Architecture:** Multi-tenant isolation (Postgres RLS), RBAC design (Owner/Admin/Analyst/Viewer role hierarchies), audit logging, compliance/legal systems
+- **Full-Stack Development:** React, TypeScript, Vite, Supabase, Tailwind CSS, shadcn/ui
+- **Background:** Cybersecurity coursework — Monash University
+- **Certifications:** [TODO: add if you have any, or remove this line]
+- **CTF/Practice Platforms:** [TODO: e.g. TryHackMe, HackTheBox — link your profile if you have one]
+
+---
+
+## Projects
+
+```
+$ ls -la projects/
+```
+
+### AkauCyberSec — SOC-as-a-Service Platform
+A multi-tenant Security Operations Center platform with 8 specialized
+dashboards (Identity Threats, AI Threats, Post-Quantum Cryptography,
+Compliance, OT Security, SOAR Automation, Threat Intelligence, and an
+Overview). Built with strict tenant isolation via Postgres row-level
+security, a four-tier RBAC system, and comprehensive audit logging.
+Currently in active development. *(private repository)*
+
+### Cybersecurity Training Store
+An e-commerce platform for professional cybersecurity training materials —
+downloadable resources for educators, consultants, and businesses, with
+a storefront, training catalog, and admin dashboard. *(private repository)*
+
+### AkauHub — AI Command Center
+A unified dashboard aggregating AI tools — chatbot, email writer, content
+generation, smart scheduling, and image/video generation — into a single
+command center interface. *(private repository)*
+
+> These projects are in private repos for now — happy to walk through the
+> code or open access on request.
+
+---
+
+## Contact
+
+```
+$ cat contact.txt
+```
+
+- GitHub: [github.com/akau-cloud](https://github.com/akau-cloud)
+- LinkedIn: [TODO: linkedin.com/in/your-handle]
+- Twitter/X: [TODO: @your-handle]
+- Email: [TODO: add the address you want public]
+
+---
+
+*Last updated: 2026*
